@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @QuinnBracelen
+- 👀 I’m interested in establishing a career in data analytics.
+- 🌱 I’m currently learning python, but only just started.
+- 💞️ I’m looking to collaborate on projects working with large sets of data.
+- 📫 Reach me at quinnbracelen@live.com
