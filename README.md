@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuinnBracelen
-- 👀 I’m interested in establishing a career in data analytics.
-- 🌱 I’m currently learning python, but only just started.
-- 💞️ I’m looking to collaborate on projects working with large sets of data.
+- 👀 I’m establishing a career in data analytics, supply chain, and project management.
+- 🌱 I’m currently pursuing my PMP cert, after recently getting my CAPM cert.
+- 💞️ I love project management, program development, and documentation & admin support related work.
 - 📫 Reach me at quinnbracelen@live.com
